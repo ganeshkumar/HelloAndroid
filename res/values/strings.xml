@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Hello!</string>
+    <string name="app_name">Hello, Android</string>
+    <string name="main_title">Ganesh First Game</string>
+    <string name="continue_label">Continue</string>
+	<string name="new_game_label">New Game Start</string>
+	<string name="about_label">About Game</string>
+	<string name="exit_label">Exit, Not Needed</string>
+</resources>
