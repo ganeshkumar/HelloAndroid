@@ -11,5 +11,14 @@
 	<string name="about_text">
 		My First game I am very happy
 	</string>
+	
+	<string name="setting_label">Settings...</string> 
+	<string name="setting_title">Sudoku settings</string> 
+	<string name="setting_shortcut">s</string> 
+	<string name="music_title">Music</string> 
+	<string name="music_summary">Play background music</string> 
+	<string name="hints_title">Hints</string> 
+	<string name="hints_summary">Show hints during play</string>	
 </resources>
+
 
